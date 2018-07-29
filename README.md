@@ -1,0 +1,1 @@
+# Numpy-Scipy-meetup-July-2018
