@@ -12,4 +12,4 @@ Workshop schedule:
 |5.00pm - 5:14pm|Short Break|
 |5:15pm - 6.00pm|numpy arrays continued|
 |6.00pm - 6.30pm|an introduction to Scipy|
-|6.30pm - 7.30pm|Function discovery excercise and presentation|
+|6.30pm - 7.30pm|Function discovery excercise and presentations|
